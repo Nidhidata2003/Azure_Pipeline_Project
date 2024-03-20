@@ -40,7 +40,6 @@ The architecture of the project consists of the following components:
 - Azure Storage
 - Azure SQL Database
 - Azure Synapse Analytics
-![resource_group](https://github.com/Nidhidata2003/Azure_Pipeline_Project/assets/140502870/9a1ea8f1-58c2-4709-b36d-8260ef3ff8f9)
 
 
 
@@ -52,14 +51,12 @@ The architecture of the project consists of the following components:
 - Azure Databricks workspace
 - Azure Data Factory instance
 
-## Data Ingestion
-![DataFactory](https://github.com/Nidhidata2003/Azure_Pipeline_Project/assets/140502870/a5fc3b76-73cf-43e3-8281-d59895ac822d)
+
 
 
 
 ## Data Processing
 
-![DataBricks](https://github.com/Nidhidata2003/Azure_Pipeline_Project/assets/140502870/aae29d78-9962-423f-b1ee-0040bd393a13)
 
 
 The data processing stage involves cleaning and transforming raw Olympic data into a structured format suitable for analysis. This step takes advantage of Azure Databricks' distributed computing capabilities for efficient processing.
